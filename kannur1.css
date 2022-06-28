@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: green;
+    height: 75px;
+}
+img{
+  
+    height: 60px;
+    width: 150x;
+    padding: 12.5px;
+    
+}
+footer{
+    text-align: center;
+    background-color: black;
+    margin-top: 55%;
+    height: 25px;
+    color: blue;
+    height: 50px;
+}
+.id{
+    text-align: center;
+    color: blanchedalmond;
+}
+.card-img-top{
+    height: 150px;
+}

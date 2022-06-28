@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: green;
+    height: 75px;
+}
+img{
+  
+    height: 60px;
+    width: 150x;
+    padding: 12.5px;
+    
+}
+a:hover{
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    border: 1px solid black;
+    padding: 2.5px;
+}
+.ip{
+    float: right;
+    
+   
+    margin-right: 3px;
+    margin-top: 6px;
+    
+   
+   
+}
+.ip a:hover{
+    transition: .5s ease-in-out;
+   
+    background-color: aqua;
+}
+a{
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+    color: black;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    margin-top: 20%;
+    height: 25px;
+    color: blue;
+    height: 50px;
+}
+.id{
+    text-align: center;
+    color: blanchedalmond;
+}
+.carouselMargin{
+    margin-top: 20px;
+}
+.carousel-inner > .carousel-item >img{
+    height: 560px;
+    padding: 25px;
+}
